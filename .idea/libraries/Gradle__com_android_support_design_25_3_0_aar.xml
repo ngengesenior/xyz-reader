@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design:25.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/f473b28097b9ed1201710907497b42a7305f2d0a/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/f473b28097b9ed1201710907497b42a7305f2d0a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f473b28097b9ed1201710907497b42a7305f2d0a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/android-sdk-linux/extras/android/m2repository/com/android/support/design/25.3.0/design-25.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
